@@ -1,4 +1,4 @@
-Longest Common Prefix
+
 ===
 
 
